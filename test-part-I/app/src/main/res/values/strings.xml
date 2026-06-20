@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Países con Fragments</string>
+    <string name="title_countries">Lista de Países</string>
+    <string name="label_capital">Capital: </string>
+    <string name="label_population">Población: </string>
+    <string name="label_language">Idioma: </string>
+    <string name="label_currency">Moneda: </string>
+    <string name="label_continent">Continente: </string>
+</resources>
