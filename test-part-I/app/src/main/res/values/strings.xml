@@ -7,4 +7,5 @@
     <string name="label_language">Idioma: </string>
     <string name="label_currency">Moneda: </string>
     <string name="label_continent">Continente: </string>
+    <string name="btn_back">← Volver a la lista</string>
 </resources>

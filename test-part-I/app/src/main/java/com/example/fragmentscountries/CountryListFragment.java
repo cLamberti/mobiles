@@ -48,7 +48,7 @@ public class CountryListFragment extends Fragment {
 
         ArrayAdapter<String> adapter = new ArrayAdapter<>(
                 requireContext(),
-                android.R.layout.simple_list_item_1,
+                R.layout.item_country,
                 names
         );
 

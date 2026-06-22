@@ -49,6 +49,10 @@ public class CountryDetailFragment extends Fragment {
             setText(view, R.id.tv_continent,  getString(R.string.label_continent)  + args.getString(KEY_CONTINENT));
         }
 
+        view.findViewById(R.id.btn_back).setOnClickListener(v ->
+                requireActivity().getSupportFragmentManager().popBackStack()
+        );
+
         return view;
     }
 
